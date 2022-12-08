@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Inter, sans-serif;
+    font-size: 10.24px;
+}
+.navbar {
+    height: 60px;
+    width: 100vw;
+    background-color: #F55A5A;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 30vw;
+    margin: auto;
+    font-size: 14.46px;
+}
+.navbar-img{
+    margin-right: 7px;
+}
+.component{
+    display: flex;
+    margin: 3vw 0vw 0vw 37vw;
+}
+.comp-desc{
+    display: flex;
+    height: 10px;
+    margin-bottom: 10px;
+}
+.component-content{
+    margin: 20px 25px;
+}
+.view-on-google-maps{
+    margin-left: 10px;
+    color: #918E9B;
+    text-decoration: underline;
+}
+.component-duration{
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.component-description{
+    max-width: 20vw;
+}
