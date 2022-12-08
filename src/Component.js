@@ -1,7 +1,6 @@
 import React from "react"
 
 export default function Component(props) {
-    console.log(props)
     return (
         <div className="component">
             <div className="component-img">
